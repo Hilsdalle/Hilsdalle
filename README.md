@@ -146,7 +146,6 @@ Typed Python libraries for real flight prices: [**googleflights-scraper**](https
 <img src="assets/ccdash.png" width="100%" alt="ccdash: Tokyo Night terminal with live Claude Code limits and running agents">
 
 - [**ccdash**](https://github.com/Hilsdalle/ccdash): a terminal and dashboard for Claude Code. The real Anthropic rate limits show as ring gauges, next to the sessions and agents that are running. Python, no dependencies.
-- **claude-hub**: one command turns a clean Ubuntu 26.04 into a remote dev hub with a desktop, Tailscale to the Mac and Windows boxes, two GitHub identities and two Claude profiles. Ansible + Terraform.
 - **claude-fanout**: parallel delivery with Claude Code. A coordinator fans features and bugs out to agents, each in its own git worktree, squash-merges what comes back and ships it in waves. Starter kit: [**claude-uchebka**](https://github.com/Hilsdalle/claude-uchebka).
 
 ---
